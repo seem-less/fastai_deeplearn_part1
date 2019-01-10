@@ -60,7 +60,7 @@ https://medium.com/@kaushikmoudgalya/my-adventures-with-paperspace-day-1-connect
 
 ### Step 5:  Choose machine
 - there are various machines with charges noted by the hour
-- Paperspace is cheaper than Crestle, with fast machines
+
 - if you choose the P4000 or P5000 machine, it may ask you to contact Paperspace asking why (anti-fraud step); let them know it is for **fast.ai** and they will get you up and running (this may take several days...)
 - Machines to choose (whichever you prefer and is available in your region of choice)
   - the **M4000**  (cheap, no paperspace authorization needed)
